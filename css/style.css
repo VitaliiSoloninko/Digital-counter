@@ -58,7 +58,7 @@ button {
 	padding: 50px;
 	min-height: 100vh;
 }
-.page__section:nth-child(1){
+.page__section:nth-child(1) {
 	background-color: #5c7250;
 }
 .page__section:nth-child(2) {
@@ -67,11 +67,12 @@ button {
 .page__container {
 	max-width: 1070px;
 	margin: 0 auto;
+	text-align: center;
 }
 .page__title {
 	font-weight: 700;
 	font-size: 40px;
-	margin-bottom:60px;
+	margin-bottom: 60px;
 	text-align: center;
 }
 .page__row {
